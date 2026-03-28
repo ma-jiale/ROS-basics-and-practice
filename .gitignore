@@ -10,3 +10,9 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+
+# Catkin workspace
+build/
+devel/
+logs/
+.catkin_workspace
